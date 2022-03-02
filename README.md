@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @johnb85022 , I am the HMIC ... ya know
+- 👋 Hi, I’m @johnb85022. 
 - 👀 I’m interested in Anisble, Bash, Lua , regex , td-agent, fluntd. 
 - 🌱 I’m currently learning, Lua. 
-- 💞️ I’m looking to collaborate on td-agent ...
 - 📫 How to reach me, email is best, johnb85022@gmail.com
 
 <!---
