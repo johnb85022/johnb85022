@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnb85022. 
-- 👀 I’m interested in Anisble, Bash, Lua , regex , td-agent, fluntd. 
+- 👀 I’m interested in Anisble, Bash, regex , td-agent, fluntd. 
 - 🌱 I’m currently learning, Lua. 
 - 📫 How to reach me, email is best, johnb85022@gmail.com
 
